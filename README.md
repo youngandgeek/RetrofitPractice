@@ -2,9 +2,11 @@
 Android App implementing HTTP request from an API using Retrofit  and Gson converter and displaying it into a RecyclerView
 
 Model Class - Retrofit Instance - Interface Class - RecyclerView class & an Adapter
+
+
 Api URL: https://jsonplaceholder.typicode.com/posts
 
-retrofit library: https://square.github.io/retrofit/
+Retrofit library: https://square.github.io/retrofit/
 
 figma design url : 🖌 https://lnkd.in/drJAJ-Xe
 
