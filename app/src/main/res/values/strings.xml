@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitPractice</string>
+    <string name="user_id_title">User ID</string>
+    <string name="id_title">ID</string>
+    <string name="title_title">Title</string>
+    <string name="post_title">Post</string>
+
+</resources>
